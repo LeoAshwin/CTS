@@ -1,2 +1,11 @@
 /Ex1.class
 /Logger.class
+/Ex2.class
+/Document.class
+/DocumentFactory.class
+/ExcelDocument.class
+/ExcelDocumentFactory.class
+/PdfDocument.class
+/PdfDocumentFactory.class
+/WordDocument.class
+/WordDocumentFactory.class
