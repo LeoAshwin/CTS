@@ -1,4 +1,4 @@
-package finance;
+package finanace;
 public class FinancialForecasting {
 
     // Recursive method to calculate future value
@@ -21,4 +21,3 @@ public class FinancialForecasting {
         System.out.println("The future value after " + years + " years is: $" + futureValue);
     }
 }
-

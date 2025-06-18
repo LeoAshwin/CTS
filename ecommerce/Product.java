@@ -1,3 +1,4 @@
+
 package ecommerce;
 public class Product {
     private int productId;

@@ -1,6 +1,0 @@
-/Notifier.class
-/EmailNotifier.class
-/NotifierDecorator.class
-/SMSNotifierDecorator.class
-/SlackNotifierDecorator.class
-/Main.class
