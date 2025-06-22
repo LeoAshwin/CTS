@@ -1,0 +1,5 @@
+The recursive approach to financial forecasting has O(n) time and space complexity due to the recursive function calls.
+
+By using Memoization, we can avoid redundant calculations and improve efficiency in cases where subproblems repeat.
+
+For simple problems like this one, an iterative approach might often be more efficient than recursion, particularly if recursion depth is large.
